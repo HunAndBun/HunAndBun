@@ -5,11 +5,11 @@ We're 'Hun & Bun,' a team of two working on game projects as well as other small
 
 
 
-⌨Hun => "Arrow," novice programmer with 1 year of experience in the Unity Engine (C#), and many more in GameMakerStudio 2 (GML).</br>
+⌨Hun => "Arrow," novice programmer with 1 years experience in the Unity Engine, and more in GameMakerStudio 2.</br>
 🎨Bun => "Rutrine," 2D & 3D artist experienced in Aseprite, Illustrator, Photoshop, Procreate, Blender, and more.  
 
-Our existing projects can be found at http://bbbs.itch.io/. </br>
-For now, you can reach us on Twitter at https://twitter.com/MasterArrowCode.
+Our existing projects can be found at http://hun-bun.itch.io/. </br>
+For now, you can reach us on Twitter at https://twitter.com/HunBunGames.
 
 <!---
 HunAndBun/HunAndBun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
