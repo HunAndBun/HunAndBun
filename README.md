@@ -67,7 +67,7 @@
    </p>
    <p>
    <h3>About:</h3>
-     
+     Self-taught and self-loathing. >:) I like pixel art, low poly 3D modeling, and long walks in the woods.
    </p>
    <p>
      <h3>Software Proficiencies (in order learned):</h3>
